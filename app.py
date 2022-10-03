@@ -2,3 +2,4 @@
 print("Hello, World")
 #ok
 print('Hacktoberfest is the best')
+print("Python is 💗")
